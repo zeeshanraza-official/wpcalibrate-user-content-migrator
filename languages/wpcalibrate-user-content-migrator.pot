@@ -1,0 +1,69 @@
+# Copyright (C) 2026 WPCalibrate
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCalibrate User Content Migrator 1.0.0\n"
+"Report-Msgid-Bugs-To: support@wpcalibrate.com\n"
+"POT-Creation-Date: 2026-10-14 12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WPCalibrate <support@wpcalibrate.com>\n"
+"Language-Team: English <support@wpcalibrate.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WPCalibrate Localization Tools\n"
+"X-Domain: wpcalibrate-user-content-migrator\n"
+
+#: wpcalibrate-user-content-migrator.php:6
+msgid "WPCalibrate User Content Migrator"
+msgstr ""
+
+#: wpcalibrate-user-content-migrator.php:8
+msgid "Safely transfer ownership of WordPress posts, pages, custom post types, WooCommerce products, and media attachments between existing users with exact rollback support."
+msgstr ""
+
+#: includes/class-activator.php:48
+msgid "WPCalibrate User Content Migrator requires PHP %1$s or higher. Your server is running PHP %2$s. Plugin activation aborted."
+msgstr ""
+
+#: includes/class-activator.php:65
+msgid "WPCalibrate User Content Migrator requires WordPress %1$s or higher. Your site is running WordPress %2$s. Plugin activation aborted."
+msgstr ""
+
+#: includes/services/class-user-search-service.php:121
+msgid "Please select a valid source user."
+msgstr ""
+
+#: includes/services/class-user-search-service.php:128
+msgid "Please select a valid destination user."
+msgstr ""
+
+#: includes/services/class-user-search-service.php:135
+msgid "Source and destination users cannot be the same user."
+msgstr ""
+
+#: includes/services/class-user-search-service.php:143
+msgid "The selected source user no longer exists."
+msgstr ""
+
+#: includes/services/class-user-search-service.php:151
+msgid "The selected destination user no longer exists."
+msgstr ""
+
+#: includes/migration/class-batch-processor.php:46
+msgid "This migration is currently locked by another active process."
+msgstr ""
+
+#: includes/rollback/class-rollback-service.php:215
+msgid "Conflict on Post #%1$d: current author #%3$d differs from expected author #%2$d. Rollback skipped to prevent data overwrite."
+msgstr ""
+
+#: includes/support/class-license-manager.php:83
+msgid "Provider Not Configured"
+msgstr ""
+
+#: includes/support/class-license-manager.php:85
+msgid "Remote license activation requires WPCalibrate licensing API configuration. The plugin remains fully functional locally for administrators."
+msgstr ""
